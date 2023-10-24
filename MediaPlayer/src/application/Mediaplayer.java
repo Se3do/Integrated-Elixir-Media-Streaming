@@ -18,8 +18,8 @@ import javafx.scene.paint.Color;
 
 
 public class Mediaplayer extends Application {
-	private static final String URL = "https://youtu.be/VDTVeDozcag?list=PLZPZq0r_RZOM-8vJA3NQFZB7JroDcMwev";
-	
+	private static final String URL
+	= "https://youtu.be/VDTVeDozcag?list=PLZPZq0r_RZOM-8vJA3NQFZB7JroDcMwev"; // <= put Video URL Here
 	@Override
 	public void start(Stage primaryStage) {
 		
