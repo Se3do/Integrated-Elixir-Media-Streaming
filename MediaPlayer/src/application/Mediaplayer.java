@@ -19,7 +19,7 @@ import javafx.scene.paint.Color;
 
 public class Mediaplayer extends Application {
 	private static final String URL
-	= "https://youtu.be/VDTVeDozcag?list=PLZPZq0r_RZOM-8vJA3NQFZB7JroDcMwev"; // <= put Video URL Here
+	= "https://jsoncompare.org/LearningContainer/SampleFiles/Video/MP4/sample-mp4-file.mp4"; // <= put Video URL Here
 	@Override
 	public void start(Stage primaryStage) {
 		
@@ -82,7 +82,7 @@ public class Mediaplayer extends Application {
 		});
 		
 		
-		primaryStage.setTitle("Media Player bs m4 awii");
+		primaryStage.setTitle("Java Streamer");
 		primaryStage.setScene(scene);
 		primaryStage.setMinHeight(360);
 		primaryStage.setMinWidth(480);
