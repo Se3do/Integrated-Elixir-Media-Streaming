@@ -1,4 +1,4 @@
-# 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐞𝐝 𝐄𝐥𝐢𝐱𝐢𝐫 𝐌𝐞𝐝𝐢𝐚 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐀𝐩𝐩
+# Integrated Elixir Media Streaming Service App
 This open-source project is designed to showcase how to build a Java-based video streaming application
 
 # Key-Features
