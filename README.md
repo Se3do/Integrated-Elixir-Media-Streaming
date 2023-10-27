@@ -8,7 +8,7 @@ Elixir Streaming excels at managing media content using the JavaFX Media class, 
 - Playback Control:
 
 The application is equipped with a robust playback control system, featuring:
-  - Play/Pause: Core functionality to initiate or halt media playback.
-  - Seek Functionality: Precision in navigating the media timeline, both forwards and backward.
-  - Volume Management: Elixir Streaming efficiently manages volume control, a feature tightly integrated with the JavaFX API. Volume settings are easily adjustable and synchronized with media playback.
+  1. Play/Pause: Core functionality to initiate or halt media playback.
+  2. Seek Functionality: Precision in navigating the media timeline, both forwards and backward.
+  3. Volume Management: Elixir Streaming efficiently manages volume control, a feature tightly integrated with the JavaFX API. Volume settings are easily adjustable and synchronized with media playback.
 
