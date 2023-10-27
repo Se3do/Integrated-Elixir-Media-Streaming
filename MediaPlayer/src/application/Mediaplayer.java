@@ -82,7 +82,7 @@ public class Mediaplayer extends Application {
 		});
 		
 		
-		primaryStage.setTitle("Java Streamer");
+		primaryStage.setTitle("Elixir Media Streaming");
 		primaryStage.setScene(scene);
 		primaryStage.setMinHeight(360);
 		primaryStage.setMinWidth(480);
