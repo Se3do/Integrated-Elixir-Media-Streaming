@@ -23,3 +23,11 @@ Event-driven mechanisms, a hallmark of the JavaFX API, govern media playback wit
 
 Elixir Streaming integrates a volume control mechanism through a slider component, a feature seamlessly bound to the MediaPlayer's volume property provided by the JavaFX API. This ensures a seamless connection between user inputs and audio levels during media playback.
 
+# Getting Started:
+Elixir Streaming is primed to enhance your multimedia experiences. To use the application, simply run it and provide the URL of your desired media content. Explore its efficient media management and advanced playback control features.
+
+# Minimum Requirements:
+
+- Java Runtime Environment (JRE)
+- JavaFX libraries, a foundational component that empowers Elixir Streaming with its multimedia capabilities.
+
